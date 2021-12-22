@@ -1,0 +1,114 @@
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw4-invalid.txt == @@@@@@@@@@@@@@@
+
+
+
+		WELCOME TO THE TRANSLATOR
+		-------------------------
+
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Enter a character (aphabetic): Please, enter an alphabet letter
+Enter a character (aphabetic): 
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+This is the morse code for b   -...
+
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+This is the ascii value for b   98
+
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+
+Thank you for using the translator.....bye!
+
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw4-normal.txt == @@@@@@@@@@@@@@@
+
+
+
+		WELCOME TO THE TRANSLATOR
+		-------------------------
+
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Enter a character (aphabetic): 
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+This is the morse code for d   -..
+
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+This is the ascii value for d   100
+
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Enter a character (aphabetic): 
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+This is the morse code for D   -..
+
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+This is the ascii value for D   68
+
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+b   -...
+d   -..
+o   ---
+q   --.-
+
+o   ---
+g   --.
+v   ...-
+
+i   ..
+e   .
+i   ..
+g   --.
+
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+
+Thank you for using the translator.....bye!
+
